@@ -64,7 +64,7 @@
 
 ```
 
-## What Max bot විශේෂාංග
+## What Max bot features
 What Max bot Here are the features.
 <a href="https://gist.github.com/cool125/28493a9b3e4f6f7ade7774a68b7c1c05">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
