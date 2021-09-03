@@ -3,7 +3,7 @@
   <h1>👸💎 What Max BOT 💎👸</h1>
 </div>
 <p align="center">
-    Whatsapp makes it easy and fun to use. It is also the first Sinhala user bot for Whatsapp.
+    Whatsapp makes it easy and fun to use.
     <br>
         <a href="https://chat.whatsapp.com/LS1qrZ4eLSQ0E9v0mA4LCX">Whatsapp Group</a> |
         <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
