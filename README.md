@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/812421/screenshots/3572056/peerlink_bot_dribbble_shot-01.png?compress=1&resize=400x300" width="250" height="180">
+  <img src="https://i.pinimg.com/564x/28/10/b0/2810b01f877d5c939528154207eca414.jpg?compress=1&resize=400x300" width="250" height="180">
   <h1>👸💎 What Max BOT 💎👸</h1>
 </div>
 <p align="center">
-    Whatsapp භාවිතා කිරීම පහසු සහ විනෝදජනක කරයි. Whatsapp සඳහා පළමු සිංහල පරිශීලක බොට් ද වේ.
+    Whatsapp
     <br>
         <a href="https://chat.whatsapp.com/LS1qrZ4eLSQ0E9v0mA4LCX">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
+        <a href="https://www.youtube.com/channel/U">Youtube Channel</a>
     <br>
 </p>
 
@@ -81,9 +81,9 @@ What Max bot විශේෂාංග මෙන්න.
 ## 📢 Guide
 > [නව සහාය සහ උපකාරක whatsapp කණ්ඩායම.](https://chat.whatsapp.com/LS1qrZ4eLSQ0E9v0mA4LCX) (New)
 
-> [සිංහල tutorial](https://www.youtube.com/watch?v=mksNihEYSXs&ab_channel=D_KTWorld_%C2%A9)
+> [සිංහල tutorial](https://www.youtube.com/watch?v=mksNi)
 
-> [![සිංහල tutorial](https://img.youtube.com/vi/mksNihEYSXs/0.jpg)](https://www.youtube.com/watch?v=mksNihEYSXs)
+> [![සිංහල tutorial](https://img.youtube.com/vi/mksNihEYSXs/0.jpg)](https://www.youtube.com/watch?v=m)
 
 ## 🔎 What Max bot යනු කුමක්ද?
 **What Max Bot,** WhatsApp උදව් බොට් කෙනකි.
